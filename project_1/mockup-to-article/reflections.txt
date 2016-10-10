@@ -7,3 +7,9 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+I`ve learned about some tags that I`ve never heard about, like: <s> , <del> , <sup>.
+Also, it was good for learning some good practices and accessibility.
+It was easy to understand tree structure and also replicate HTML structure, because it was something I already knew.
+But I guess it was hard to replicate the mockup exactly like was asked.
+The problem solving strategies was something I used to do on my daily basis, so I kept using those strategies like I used before.
